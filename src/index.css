@@ -15,6 +15,25 @@ button {
     color: #ffffff;
 }
 
+.again, .next-player {
+    padding: 16px;
+    font-size: 1.75rem;
+}
+
+.game-info {
+    margin-top: 2rem;
+    text-align: left;
+}
+
+/* .next-player {
+    text-align: left;
+} */
+
+.board-row {
+    display: flex;
+    flex-direction: row;
+}
+
 .board-row:after {
     clear: both;
     content: "";
@@ -32,13 +51,13 @@ button {
     float: left;
     font-size: 24px;
     font-weight: bold;
-    line-height: 34px;
-    height: 34px;
+    line-height: 4rem;
+    height: 4rem;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 34px;
+    width: 4rem;
 }
 
 .square:focus {
@@ -54,13 +73,20 @@ button {
 }
 
 .game {
-    display: flex;
-    flex-direction: row;
+    /* display: flex;
+    flex-direction: row; */
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+@media screen and (min-width: 1023px) {
+    .game {
+        display: flex;
+        flex-direction: row;
+    }
 }
 
 .game-info {
