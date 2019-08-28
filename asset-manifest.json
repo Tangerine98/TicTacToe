@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Learning-React/static/css/main.965b29e0.chunk.css",
-    "main.js": "/Learning-React/static/js/main.b55456d5.chunk.js",
-    "main.js.map": "/Learning-React/static/js/main.b55456d5.chunk.js.map",
-    "runtime~main.js": "/Learning-React/static/js/runtime~main.36d5a71d.js",
-    "runtime~main.js.map": "/Learning-React/static/js/runtime~main.36d5a71d.js.map",
-    "static/js/2.43ca332d.chunk.js": "/Learning-React/static/js/2.43ca332d.chunk.js",
-    "static/js/2.43ca332d.chunk.js.map": "/Learning-React/static/js/2.43ca332d.chunk.js.map",
-    "index.html": "/Learning-React/index.html",
-    "precache-manifest.334c068a5666fba7ccfc0b7f4272a26c.js": "/Learning-React/precache-manifest.334c068a5666fba7ccfc0b7f4272a26c.js",
-    "service-worker.js": "/Learning-React/service-worker.js",
-    "static/css/main.965b29e0.chunk.css.map": "/Learning-React/static/css/main.965b29e0.chunk.css.map"
+    "main.css": "/TicTacToe/static/css/main.965b29e0.chunk.css",
+    "main.js": "/TicTacToe/static/js/main.b55456d5.chunk.js",
+    "main.js.map": "/TicTacToe/static/js/main.b55456d5.chunk.js.map",
+    "runtime~main.js": "/TicTacToe/static/js/runtime~main.c7c8d960.js",
+    "runtime~main.js.map": "/TicTacToe/static/js/runtime~main.c7c8d960.js.map",
+    "static/js/2.43ca332d.chunk.js": "/TicTacToe/static/js/2.43ca332d.chunk.js",
+    "static/js/2.43ca332d.chunk.js.map": "/TicTacToe/static/js/2.43ca332d.chunk.js.map",
+    "index.html": "/TicTacToe/index.html",
+    "precache-manifest.60c3d75566c8feb856aa80a50cf5c94e.js": "/TicTacToe/precache-manifest.60c3d75566c8feb856aa80a50cf5c94e.js",
+    "service-worker.js": "/TicTacToe/service-worker.js",
+    "static/css/main.965b29e0.chunk.css.map": "/TicTacToe/static/css/main.965b29e0.chunk.css.map"
   }
 }
