@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tangerine98.github.io/Learning-React",
+  "homepage": "http://tangerine98.github.io/TicTacToe",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",

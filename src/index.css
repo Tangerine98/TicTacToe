@@ -3,6 +3,7 @@ body {
     margin: 20px;
     background-color: #282c34;
     color: #61dafb;
+    text-align: center;
 }
 
 ol, ul {
@@ -25,13 +26,11 @@ button {
     text-align: left;
 }
 
-/* .next-player {
-    text-align: left;
-} */
-
 .board-row {
     display: flex;
     flex-direction: row;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .board-row:after {
@@ -70,11 +69,10 @@ button {
 
 .board {
     margin-bottom: 2rem;
+    margin-left: 0.5rem;
 }
 
 .game {
-    /* display: flex;
-    flex-direction: row; */
     position: absolute;
     top: 50%;
     left: 50%;
